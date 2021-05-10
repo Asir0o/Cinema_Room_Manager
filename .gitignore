@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Arrays as parameters/Get first and last elements/out/
+/Topics/Arrays as parameters/Get first and last elements/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Declaring a method/Find the max of three numbers/out/
+/Topics/Declaring a method/Find the max of three numbers/out/production/classes/
+/Topics/Declaring a method/Raise to the power/out/
+/Topics/Declaring a method/Raise to the power/out/production/classes/
+/Topics/Declaring a method/Sum of numbers in the range/out/
+/Topics/Declaring a method/Sum of numbers in the range/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Declaring a method/Theory/out/
+/Topics/Declaring a method/Theory/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
